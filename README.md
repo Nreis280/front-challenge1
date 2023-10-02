@@ -1,9 +1,9 @@
 # COLABORADORES DO PROJETO
 
-- Eu - Maria Fernanda Ribeiro Mello (https://www.linkedin.com/in/maria-fernanda-b31526243/)
-- Nicolas Reis do Espirito Santo - **GitHub:** https://github.com/Nreis280, **Linkedin:** https://www.linkedin.com/in/nicolas-reis-441167248/
+- Eu - Nicolas Reis do Espirito Santo - **Linkedin:** https://www.linkedin.com/in/nicolas-reis-441167248/
+- Maria Fernanda Ribeiro Mello (**Linkedin:** https://www.linkedin.com/in/maria-fernanda-b31526243/)
 
- 
+
  
 -----------------------------------------------------------------------------------------------------
 
