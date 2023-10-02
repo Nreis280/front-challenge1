@@ -7,7 +7,7 @@ import "slick-carousel/slick/slick-theme.css";
 import NavBar from "../../Components/NavBar/NavBar";
 
 export default function PaginaCardSquad() {
-
+/* PG squad */
   const participants = [
     {
       name: "Gabrielle da Silva Stanguini",
