@@ -1,7 +1,7 @@
 # COLABORADORES DO PROJETO
 
 - Eu - Nicolas Reis do Espirito Santo - **Linkedin:** https://www.linkedin.com/in/nicolas-reis-441167248/
-- Maria Fernanda Ribeiro Mello (**Linkedin:** https://www.linkedin.com/in/maria-fernanda-b31526243/)
+- Maria Fernanda Ribeiro Mello **Linkedin:** https://www.linkedin.com/in/maria-fernanda-b31526243/
 
 
  
